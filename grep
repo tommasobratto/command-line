@@ -1,0 +1,1 @@
+"grep" command: use it to find lines, words and characters inside files or, when redirected with pipelines after a "find"/"ls" command, to find specific files by filename.
