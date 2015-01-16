@@ -1,0 +1,2 @@
+"wc" command: use it to count words with the -w switch, to count lines with the -l switch and to count characters with the -m switch.
+It can be combined with other commands to count words, characters and lines inside files or, for example, to count the number of files and active processes when redirected.
